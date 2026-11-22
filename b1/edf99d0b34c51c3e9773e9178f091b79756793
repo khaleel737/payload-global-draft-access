@@ -1,0 +1,105 @@
+.env.example
+  s_c79ed440523271::t_71700ba005af82 1-2
+.gitignore
+  s_c79ed440523271::t_a250eaaf1ec72c 1-53
+.npmrc
+  s_c79ed440523271::t_926ff3f3f409bf 1
+.prettierrc.json
+  s_c79ed440523271::t_6771b50dbad64e 1-6
+.vscode/extensions.json
+  s_c79ed440523271::t_dd0d992d01c487 1-3
+.vscode/launch.json
+  s_c79ed440523271::t_c5d79ea2e91c9a 1-24
+.vscode/settings.json
+  s_c79ed440523271::t_986b0d565658fe 1-41
+.yarnrc
+  s_c79ed440523271::t_3989b36b3f2f80 1
+Dockerfile
+  s_c79ed440523271::t_ed0632671ae3d9 1-71
+README.md
+  s_c79ed440523271::t_5117979da2eb7a 1-29
+docker-compose.yml
+  s_c79ed440523271::t_2e32cc389f9875 1-43
+eslint.config.mjs
+  s_c79ed440523271::t_e8c7c4b7f0cc3c 1-38
+next.config.ts
+  s_c79ed440523271::t_5eee6d3d0f6f5c 1-31
+package.json
+  s_c79ed440523271::t_b06de62e5e6f53 1-61
+playwright.config.ts
+  s_c79ed440523271::t_058c7d3ed9759e 1-41
+pnpm-lock.yaml
+  s_c79ed440523271::t_5b14b7764a1ffd 1-9127
+pnpm-workspace.yaml
+  s_c79ed440523271::t_d7d4a607a229ce 1-5
+src/access/drafts-or-admin.ts
+  s_c79ed440523271::t_751f0c1a2eadb9 1-11
+src/app/(frontend)/layout.tsx
+  s_c79ed440523271::t_81c637b9d2e540 1-19
+src/app/(frontend)/page.tsx
+  s_c79ed440523271::t_46048e2d664d51 1-59
+src/app/(frontend)/styles.css
+  s_c79ed440523271::t_3e36e2dfd6f284 1-164
+src/app/(payload)/admin/[[...segments]]/not-found.tsx
+  s_c79ed440523271::t_1afc0577532d20 1-24
+src/app/(payload)/admin/[[...segments]]/page.tsx
+  s_c79ed440523271::t_f512ec162ec7e2 1-24
+src/app/(payload)/admin/importMap.js
+  s_c79ed440523271::t_605a083215c3ea 1-6
+src/app/(payload)/api/[...slug]/route.ts
+  s_c79ed440523271::t_acaaf8ea10d7a7 1-19
+src/app/(payload)/api/graphql-playground/route.ts
+  s_c79ed440523271::t_d27d0ab6e1786a 1-7
+src/app/(payload)/api/graphql/route.ts
+  s_c79ed440523271::t_417b9455fc2e4a 1-8
+src/app/(payload)/layout.tsx
+  s_c79ed440523271::t_6f20bf7a51b5c5 1-31
+src/app/my-route/route.ts
+  s_c79ed440523271::t_5d5417964f3832 1-12
+src/collections/Media.ts
+  s_c79ed440523271::t_a7761df2c1330a 1-16
+src/collections/Posts.ts
+  s_c79ed440523271::t_9146ed817c6008 1-12
+src/collections/Users.ts
+  s_c79ed440523271::t_84b019f71a6a5a 1-19
+src/globals/Settings.ts
+  s_c79ed440523271::t_891643b94ee77f 1-10
+src/payload-types.ts
+  s_c79ed440523271::t_1825633c361711 1-396
+src/payload.config.ts
+  s_c79ed440523271::t_701daa47465f4e 1-37
+test.env
+  s_c79ed440523271::t_5a1d917e1286a3 1
+tests/e2e/admin.e2e.spec.ts
+  s_c79ed440523271::t_a956bd6c719c11 1-41
+tests/e2e/frontend.e2e.spec.ts
+  s_c79ed440523271::t_cc060c4f0f6374 1-20
+tests/helpers/login.ts
+  s_c79ed440523271::t_23c212f1494939 1-31
+tests/helpers/seedUser.ts
+  s_c79ed440523271::t_0f51bf7ca33e1c 1-47
+tests/int/api.int.spec.ts
+  s_c79ed440523271::t_189efd4ab3c3ac 1-20
+tsconfig.json
+  s_c79ed440523271::t_3a43a9d4185737 1-45
+vitest.config.mts
+  s_c79ed440523271::t_ed08bcbb8dfa0d 1-12
+vitest.setup.ts
+  s_c79ed440523271::t_bf39c5d208cb8e 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "b1edf99d0b34c51c3e9773e9178f091b79756793",
+  "prompts": {},
+  "sessions": {
+    "s_c79ed440523271": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f84243ba-60b6-484a-87a5-3b9eda04862b",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Khaleel Musleh <khaleelmusleh@gmail.com>"
+    }
+  }
+}
